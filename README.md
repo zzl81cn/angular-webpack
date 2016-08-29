@@ -15,6 +15,10 @@ This workflow serves as a starting point for building Angular 1.x applications u
 * Code coverage when tests are run.
 * No gulp and no grunt, just npm scripts.
 
+## Loading bootstrap
+
+$ npm install --save bootstrap
+
 >Warning: Make sure you're using the latest version of Node.js and NPM
 
 ### Quick start
